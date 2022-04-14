@@ -29,3 +29,10 @@ List Sayfası:
 -Burda listelenecek ürünleri hazır API'den çektim ve burda da contextAPI yapısı kullandım. Eğer sepette herhangi bir ürün yoksa sepet boş yazısı cıkıyor.
 -Sepete herhangi bir ürün eklendiğinde Ürünlerin fiyatı çıkıyor. Aynı zamanda yanındaki butondan ürünler silinebiliyor.
 -Ek olarak sepet kısmında AsyncStorage paketini kullandım ve her cihazda en son sepette ne kadar ürün varsa uygulamayı kapatsanız dahi uygulamaya tekrar girdiğinizde ürünlerin fiyatı en son ki haliyle kalıyor.
+
+
+![alt text](https://github.com/a-aksakal/ECommerce-v2-React-Native/blob/main/ScreenShots/AccountDisabledButton.PNG?raw=true)
+![alt text](https://github.com/a-aksakal/ECommerce-v2-React-Native/blob/main/ScreenShots/AccountFillText.PNG?raw=true)
+![alt text](https://github.com/a-aksakal/ECommerce-v2-React-Native/blob/main/ScreenShots/Account.PNG?raw=true)
+![alt text](https://github.com/a-aksakal/ECommerce-v2-React-Native/blob/main/ScreenShots/EmptyCart.PNG?raw=true)
+![alt text](https://github.com/a-aksakal/ECommerce-v2-React-Native/blob/main/ScreenShots/Home%26Cart.PNG?raw=true)
