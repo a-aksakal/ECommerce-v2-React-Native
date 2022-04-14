@@ -1,6 +1,6 @@
 # ECommerce-v2-React-Native
 - React-native navigation kullanarak bottom tab navigaton ve stack native navigation yapısını kullanarak sayfalar arası gezinme işlemini yaptım.
--Bazı sayfalarda style components bazı sayfalarda flex tasarım kullandım.
+-Bazı sayfalarda style components, bazı sayfalarda flex tasarım kullandım.
 -React Native Element component paketinden yararlanarak bazı componentleri ordan kullandım.
 -Redux yapısını da kullanmak istiyordum fakat ekstradan bir sayfa tasarlamadığım için kullanacak yer cok bulamadım açıkçası.
 
