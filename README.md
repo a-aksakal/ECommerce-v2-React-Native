@@ -36,3 +36,4 @@ List Sayfası:
 ![alt text](https://github.com/a-aksakal/ECommerce-v2-React-Native/blob/main/ScreenShots/Account.PNG?raw=true)
 ![alt text](https://github.com/a-aksakal/ECommerce-v2-React-Native/blob/main/ScreenShots/EmptyCart.PNG?raw=true)
 ![alt text](https://github.com/a-aksakal/ECommerce-v2-React-Native/blob/main/ScreenShots/Home%26Cart.PNG?raw=true)
+<img src="https://github.com/a-aksakal/ECommerce-v2-React-Native/blob/main/ScreenShots/AccountDisabledButton.PNG" alt="a" width="100"/>
