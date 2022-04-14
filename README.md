@@ -31,9 +31,9 @@ List Sayfası:
 -Ek olarak sepet kısmında AsyncStorage paketini kullandım ve her cihazda en son sepette ne kadar ürün varsa uygulamayı kapatsanız dahi uygulamaya tekrar girdiğinizde ürünlerin fiyatı en son ki haliyle kalıyor.
 
 
-![alt text](https://github.com/a-aksakal/ECommerce-v2-React-Native/blob/main/ScreenShots/AccountDisabledButton.PNG?raw=true)
-![alt text](https://github.com/a-aksakal/ECommerce-v2-React-Native/blob/main/ScreenShots/AccountFillText.PNG?raw=true)
-![alt text](https://github.com/a-aksakal/ECommerce-v2-React-Native/blob/main/ScreenShots/Account.PNG?raw=true)
-![alt text](https://github.com/a-aksakal/ECommerce-v2-React-Native/blob/main/ScreenShots/EmptyCart.PNG?raw=true)
-![alt text](https://github.com/a-aksakal/ECommerce-v2-React-Native/blob/main/ScreenShots/Home%26Cart.PNG?raw=true)
-<img src="https://github.com/a-aksakal/ECommerce-v2-React-Native/blob/main/ScreenShots/AccountDisabledButton.PNG" alt="a" width="100"/>
+
+<img src="https://github.com/a-aksakal/ECommerce-v2-React-Native/blob/main/ScreenShots/AccountDisabledButton.PNG" alt="a" width="200"/>
+<img src="https://github.com/a-aksakal/ECommerce-v2-React-Native/blob/main/ScreenShots/AccountFillText.PNG" alt="a" width="200"/>
+<img src="https://github.com/a-aksakal/ECommerce-v2-React-Native/blob/main/ScreenShots/Account.PNG" alt="a" width="200"/>
+<img src="https://github.com/a-aksakal/ECommerce-v2-React-Native/blob/main/ScreenShots/EmptyCart.PNG" alt="a" width="200"/>
+<img src="https://github.com/a-aksakal/ECommerce-v2-React-Native/blob/main/ScreenShots/Home%26Cart.PNG" alt="a" width="200"/>
